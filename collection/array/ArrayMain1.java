@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class ArrayMain1 {
 
     public static void main(String[] args) {
-        int[] arr = new int[5];
+        int[] arr = new int[5];//qq
         //index 입력: O(1)
         System.out.println("==index 입력: O(1)==");
         arr[0] = 1;
