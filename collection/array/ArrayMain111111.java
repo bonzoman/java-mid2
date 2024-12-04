@@ -2,7 +2,7 @@ package collection.array;
 
 import java.util.Arrays;
 
-public class ArrayMain1 {
+public class ArrayMain111111 {
 
     public static void main(String[] args) {
         int[] arr = new int[5];//qqqq

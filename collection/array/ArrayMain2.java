@@ -3,7 +3,7 @@ package collection.array;
 import java.util.Arrays;
 
 /**
- * 배열의 특징
+ * 배열의 특징asdfsadfsda
  */
 public class ArrayMain2 {
 
